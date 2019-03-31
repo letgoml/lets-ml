@@ -1,7 +1,7 @@
 # Let's ML
 
 Let's ML is a text containing lots possible words to asking fo ML.
-
+![logo](https://raw.githubusercontent.com/letgoml/lets-ml/master/docs/logo.png)
 ## Installation
 In order to use the lets-ml command, compile it using the following command:
 
